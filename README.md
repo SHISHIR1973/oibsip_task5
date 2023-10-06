@@ -35,7 +35,7 @@ imp <username>/<password> FROMUSER=<username> TOUSER=<username> FILE=<filepath>
 ~~~
 &nbsp;&nbsp;&nbsp;In This Project it is: 
 ~~~
-imp library/library FROMUSER=library TOUSER=library FILE=library.dmp
+imp <username in credentials>/<password in credentials> FROMUSER=library TOUSER=library FILE=library.dmp
 ~~~
 <b>STEP-5:</b>&nbsp; Login with your Username and Password to manage your Database. For this project it is <a href="https://github.com/SHISHIR1973/oibsip_task5/blob/e7934656384491b12210e7a097c01ffd46d6a4da/oracle.txt" target="_blank">here</a>.
 
